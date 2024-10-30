@@ -1,2 +1,3 @@
 tiger like
 push를 확인해보자!
+pull을 확인해보자!
