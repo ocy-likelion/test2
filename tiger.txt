@@ -1,2 +1,2 @@
 tiger branch
-fetch 한 번 알아보자!
+fetch 한 번 알아보자
